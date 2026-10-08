@@ -1,9 +1,7 @@
 <h1 align="center">¡Hola, soy Javier Gómez! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="saludo"></h1>
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Estudiante+de+Desarrollo+Web+Full+Stack;Automatización+y+robótica;Música+y+código" alt="Texto animado" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Estudiante+de+Desarrollo+Web+Full+Stack;Automatizaci%C3%B3n+y+rob%C3%B3tica;M%C3%BAsica+y+c%C3%B3digo" alt="Estudiante de Desarrollo Web Full Stack" />
 </p>
 
 <p align="center">
@@ -31,9 +29,7 @@
 ## 🛠️ Tecnologías y herramientas
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,mysql,git,github,linux,vscode&perline=6" alt="Tecnologías" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,mysql,git,github,linux,vscode&perline=6" alt="Tecnologías" />
 </p>
 
 ---
