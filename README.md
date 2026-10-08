@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola, soy JavieGomez! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="saludo"></h1>
+<h1 align="center">¡Hola, soy Javier Gómez! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="saludo"></h1>
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
@@ -7,9 +7,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=Visitas&color=0e75b6&style=flat" alt="Visitas al perfil" />
-  <a href="https://github.com/TU_USUARIO?tab=followers">
-    <img src="https://img.shields.io/github/followers/TU_USUARIO?label=Seguidores&style=flat&logo=github" alt="Seguidores" />
+  <img src="https://komarev.com/ghpvc/?username=JavieGomez&label=Visitas&color=0e75b6&style=flat" alt="Visitas al perfil" />
+  <a href="https://github.com/JavieGomez?tab=followers">
+    <img src="https://img.shields.io/github/followers/JavieGomez?label=Seguidores&style=flat&logo=github" alt="Seguidores" />
   </a>
 </p>
 
@@ -41,12 +41,12 @@
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JavieGomez&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavieGomez&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=TU_USUARIO&theme=tokyonight&hide_border=true" alt="Racha de contribuciones" />
+  <img src="https://streak-stats.demolab.com/?user=JavieGomez&theme=tokyonight&hide_border=true" alt="Racha de contribuciones" />
 </p>
 
 ---
@@ -54,10 +54,10 @@
 ## 📫 Contacto
 
 <p align="center">
-  <a href=["https://www.linkedin.com/in/TU_LINKEDIN">](https://www.linkedin.com/in/javier-g%C3%B3mez-mart%C3%ADnez-b8728239a/)
+  <a href="https://www.linkedin.com/in/javier-g%C3%B3mez-mart%C3%ADnez-b8728239a/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="javiergommar30@gmail.com">
+  <a href="mailto:javiergommar30@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
