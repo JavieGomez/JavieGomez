@@ -29,7 +29,17 @@
 ## 🛠️ Tecnologías y herramientas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,mysql,git,github,linux,vscode&perline=6" alt="Tecnologías" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,linux,powershell,vscode,arduino&perline=8" alt="Tecnologías" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepadplusplus&logoColor=black" alt="Notepad++" />
+  <img src="https://img.shields.io/badge/RobotStudio-FF000F?style=for-the-badge" alt="RobotStudio" />
+  <img src="https://img.shields.io/badge/TIA_Portal-009999?style=for-the-badge" alt="TIA Portal" />
+  <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
 </p>
 
 ---
